@@ -1,0 +1,7 @@
+{
+  "name": "examenwg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
